@@ -16,10 +16,12 @@ nav{
 main{
     background-color: green;
     grid-area: main;
+
 }
 #sidebar{
     background-color: gray;
     grid-area: sidebar;
+    border-image: round;
 }
 #content1{
     background-color: gray;
